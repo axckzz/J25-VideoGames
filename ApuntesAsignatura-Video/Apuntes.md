@@ -11,7 +11,6 @@ Transacción púbicas
 Pero❗
 Usuario 1 y Usuario 2 -> Minero es un intermediario -> que intenta resolver un puzzle matemático para hacer la transacción pública. Lo que los usuarios suelen hacer es contactar a varios mineros y el que lo haga más se lleva una pequeña parte.
 
----
 
 - Los bitcons son fungibles. 🟰
 - Su valor no es estable con el tiempo -> Criptomoneda = ej: bitcoin.💲
