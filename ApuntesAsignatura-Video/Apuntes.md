@@ -1,5 +1,6 @@
 # Apuntes Video Juegos
 ---
+## NFTS y BITCOIN
 ### Los NFTS són un timo ❌
 - Los nfts no son fungibles esto significa que no valen lo mismo, hay otros elementos que son fungibles como por ejemplo los bitcoins.
 - Non Fungible Items = NFTS.
