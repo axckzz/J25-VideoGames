@@ -21,13 +21,8 @@ Usuario 1 y Usuario 2 -> Minero es un intermediario -> que intenta resolver un p
 ---
 
 ## WorldCoin 
-
+### **Problemas de WorldCoin** ‼️
 - La agencia de protección de datos ha prohibido que en España se puede instalar worldcoin. Porque con esos iris podrian estar vendiendolos a otros países o haciendo cosas incluso peores de las que nos imaginamos.
-
-  
-  
-**Problemas de WorldCoin** ‼️
-
 - Especulación.
 - Toma de datos personales altamente protegidos.
   
