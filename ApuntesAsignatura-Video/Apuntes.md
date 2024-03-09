@@ -32,5 +32,5 @@ Usuario 1 y Usuario 2 -> Minero es un intermediario -> que intenta resolver un p
 - Yo tambien pienso como el profesor para mi los nfts son una estafa o mejor dicho un timo por las razones que he puesto arriba.
 - Yo nunca compraria uno ni recomendaria a alguien comprarlo.
 - En cambio si podria llegar a invertir en alguna criptomoneda pero de momento no lo tengo en mente.
-- Yo tuve la posibilidad de descargarme Worldcoin hace unos 6 meses cuando se estaba iniciando en el mercado y nadie sabia de ella pero no me gusto la idea de que me cogierna el iris y no accedi a descargarmelo.
+- Yo tuve la posibilidad de descargarme Worldcoin hace unos 6 meses cuando se estaba iniciando en el mercado y nadie sabia de ella pero no me gusto la idea de que me cogieran el iris y no accedi a descargarmelo.
 - Me parece interesante el tema de los mineros que resuelven puzzles y todo el proceso.
