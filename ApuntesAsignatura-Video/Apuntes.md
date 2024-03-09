@@ -15,7 +15,7 @@ Usuario 1 y Usuario 2 -> Minero es un intermediario -> que intenta resolver un p
 - Los bitcons son fungibles. 🟰
 - Su valor no es estable con el tiempo -> Criptomoneda = ej: bitcoin.💲
 - El oro no se puede usar de forma corriente como una moneda.
-- El bitcoin es mas dificil de rastrear que el euro por ejemplo.🐾
+- El bitcoin es mas dificil de rastrear que el euro por ejemplo. Por eso se suele o se utiliza la mayoria de los casos para las deep webs y cosas oscuras. 🐾
 - Cada NFT esta asociado a un ethereum.
 
 ---
