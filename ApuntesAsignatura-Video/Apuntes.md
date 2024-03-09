@@ -18,6 +18,9 @@ Usuario 1 y Usuario 2 -> Minero es un intermediario -> que intenta resolver un p
 - El bitcoin es mas dificil de rastrear que el euro por ejemplo. Por eso se suele o se utiliza la mayoria de los casos para las deep webs y cosas oscuras. 🐾
 - Cada NFT esta asociado a un ethereum.
 
+  ![giphy](https://github.com/axckzz/J25-VideoGames/assets/144990882/86fcbb86-6c72-4279-b301-9dab389c547c)
+
+
 ---
 
 ## WorldCoin 
@@ -25,6 +28,9 @@ Usuario 1 y Usuario 2 -> Minero es un intermediario -> que intenta resolver un p
 - La agencia de protección de datos ha prohibido que en España se puede instalar worldcoin. Porque con esos iris podrian estar vendiendolos a otros países o haciendo cosas incluso peores de las que nos imaginamos.
 - Especulación.
 - Toma de datos personales altamente protegidos.
+
+  ![giphy](https://github.com/axckzz/J25-VideoGames/assets/144990882/9ee705c5-7daf-4879-a111-449456ce5215)
+
   
 --- 
 
@@ -34,3 +40,6 @@ Usuario 1 y Usuario 2 -> Minero es un intermediario -> que intenta resolver un p
 - En cambio si podria llegar a invertir en alguna criptomoneda pero de momento no lo tengo en mente.
 - Yo tuve la posibilidad de descargarme Worldcoin hace unos 6 meses cuando se estaba iniciando en el mercado y nadie sabia de ella pero no me gusto la idea de que me cogieran el iris y no accedi a descargarmelo.
 - Me parece interesante el tema de los mineros que resuelven puzzles y todo el proceso.
+
+  
+![giphy](https://github.com/axckzz/J25-VideoGames/assets/144990882/3d0b5cc7-3a42-49ff-9bf6-e083aca41f1c)
