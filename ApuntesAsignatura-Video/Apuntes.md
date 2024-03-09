@@ -1,6 +1,6 @@
-# **Apuntes Video-Juegos**
+# **Apuntes Video-Juegos**🎮
 ---
-## **NFTS y BITCOIN** 🤖
+## **NFTS y Bitcoin** 🤖
 ### Los NFTS són un timo ❌
 - Los nfts no son fungibles esto significa que no valen lo mismo, hay otros elementos que son fungibles como por ejemplo los bitcoins.
 - Non Fungible Items = NFTS.
@@ -23,7 +23,7 @@ Usuario 1 y Usuario 2 -> Minero es un intermediario -> que intenta resolver un p
 
 ---
 
-## **WorldCoin** 
+## **WorldCoin**🪐
 ### Problemas de WorldCoin‼️
 - La agencia de protección de datos ha prohibido que en España se puede instalar worldcoin. Porque con esos iris podrian estar vendiendolos a otros países o haciendo cosas incluso peores de las que nos imaginamos.
 - Especulación.
@@ -34,7 +34,7 @@ Usuario 1 y Usuario 2 -> Minero es un intermediario -> que intenta resolver un p
   
 --- 
 
-## **Opinión personal sobre lo hablado en clase.**
+## **Opinión personal sobre lo hablado en clase**📓
 - Yo tambien pienso como el profesor para mi los nfts son una estafa o mejor dicho un timo por las razones que he puesto arriba.
 - Yo nunca compraria uno ni recomendaria a alguien comprarlo.
 - En cambio si podria llegar a invertir en alguna criptomoneda pero de momento no lo tengo en mente.
