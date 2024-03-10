@@ -56,3 +56,8 @@ Analizando varios articulos he llegado a varias conclusiones como las siguientes
 
   
 ![giphy](https://github.com/axckzz/J25-VideoGames/assets/144990882/3d0b5cc7-3a42-49ff-9bf6-e083aca41f1c)
+
+## **Referencias**
+- http://scielo.iics.una.py/scielo.php?script=sci_arttext&pid=S2076-054X2019004900130
+- https://ciencialatina.org/index.php/cienciala/article/view/1306
+- https://www.santander.com/es/stories/que-son-los-nft
