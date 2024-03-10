@@ -1,11 +1,11 @@
 # **Apuntes Video-Juegos**🎮
 ---
 ## **NFTS y Bitcoin** 🤖
-### **Definición del bitcoin:**
-- El bitcoin es considerado una nueva forma de utilizar dinero para los intercambios de bienes, servicios e inversiones, desde plataformas digitales.
+### **Definición del Bitcoin:**
+- El Bitcoin es considerado una nueva forma de utilizar dinero para los intercambios de bienes, servicios e inversiones, desde plataformas digitales.
 ### **Definición de los NFTS:**
 - Los NFTs o tokens no fungibles (Non Fungible Token en inglés) son representaciones inequívocas de activos, tanto digitales como físicos, en la red blockchain.
-### **Ventajas y desventajas del bitcoin:**
+### **Ventajas y desventajas del Bitcoin:**
 - **Las principales ventajas serían:** su globalidad, transacciones realizadas en tiempo real, altos estándares de seguridad y riesgos, no sufre fluctuaciones de inflación, le da al usuario la libertad de pagos, así como de enviar y recibir cualquier cantidad de dinero de forma instantánea y con tasas muy bajas en comparación con los productos financieros.
 - **Las principales desventajas serían:** la volatilidad, la garantía de aceptación, pues aunque cada vez hay más establecimientos que los aceptan todavía son una minoría y el hecho de que no cuenta con respaldo de activos físicos o emisores legales.
 ### Los NFTS són un timo ❌
@@ -25,8 +25,14 @@ Usuario 1 y Usuario 2 -> Minero es un intermediario -> que intenta resolver un p
 - El bitcoin es mas dificil de rastrear que el euro por ejemplo. Por eso se suele o se utiliza la mayoria de los casos para las deep webs y cosas oscuras. 🐾
 - Cada NFT esta asociado a un ethereum.
 
-  ![giphy](https://github.com/axckzz/J25-VideoGames/assets/144990882/86fcbb86-6c72-4279-b301-9dab389c547c)
+## **Conclusiones del Bitcoin**
+Analizando varios articulos he llegado a varias conclusiones como las siguientes que enumero:
+1. Hay factores que han retrasado el uso del Bitcoin, debido a la falta de conocimiento de las nuevas tecnologías, lo cual es un factor importante a superar. Es importante no pensar que solo el dinero tradicional sirve para realizar pagos y transacciones.
+2. Imprescindible tener conocimiento del proceso para accder a esta determinada tecnología y sobretodo tener capacidad para entender el funcionamiento y el uso del Bitcoin como moneda de pago.
+3. Se debe pensar en un cambio del sistema financiero ya que gracias a estar mundo globalizado podriamos remplazar las monedas tradicionales por las virtuales, donde se veria un gran crecimiento en el comercio electrónico el cuál juega un papel muy importante.
+4. Y que en todos los paises mediante sus Bancos Centrales ganarian rapidez, flexiblidad dando gran fluiidez al mercado financiero.
 
+  ![giphy](https://github.com/axckzz/J25-VideoGames/assets/144990882/86fcbb86-6c72-4279-b301-9dab389c547c)
 
 ---
 
