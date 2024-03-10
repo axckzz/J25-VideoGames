@@ -32,8 +32,6 @@ Usuario 1 y Usuario 2 -> Minero es un intermediario -> que intenta resolver un p
 3. Se debe pensar en un cambio del sistema financiero ya que gracias a estar mundo globalizado podriamos remplazar las monedas tradicionales por las virtuales, donde se veria un gran crecimiento en el comercio electrónico el cuál juega un papel muy importante.
 4. Y que en todos los paises mediante sus Bancos Centrales ganarian rapidez, flexiblidad dando gran fluiidez al mercado financiero.
 
-  ![giphy](https://github.com/axckzz/J25-VideoGames/assets/144990882/86fcbb86-6c72-4279-b301-9dab389c547c)
-
 ---
 
 ## **WorldCoin**🪐
