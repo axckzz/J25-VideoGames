@@ -26,7 +26,7 @@ Usuario 1 y Usuario 2 -> Minero es un intermediario -> que intenta resolver un p
 - Cada NFT esta asociado a un ethereum.
 
 ## **Conclusiones del Bitcoin**
-Analizando varios articulos he llegado a varias conclusiones como las siguientes que enumero:
+#### Analizando varios articulos he llegado a varias conclusiones como las siguientes que enumero:
 1. Hay factores que han retrasado el uso del Bitcoin, debido a la falta de conocimiento de las nuevas tecnologías, lo cual es un factor importante a superar. Es importante no pensar que solo el dinero tradicional sirve para realizar pagos y transacciones.
 2. Imprescindible tener conocimiento del proceso para accder a esta determinada tecnología y sobretodo tener capacidad para entender el funcionamiento y el uso del Bitcoin como moneda de pago.
 3. Se debe pensar en un cambio del sistema financiero ya que gracias a estar mundo globalizado podriamos remplazar las monedas tradicionales por las virtuales, donde se veria un gran crecimiento en el comercio electrónico el cuál juega un papel muy importante.
