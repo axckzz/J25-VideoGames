@@ -6,8 +6,8 @@
 ### **Definición de los NFTS:**
 - Los NFTs o tokens no fungibles (Non Fungible Token en inglés) son representaciones inequívocas de activos, tanto digitales como físicos, en la red blockchain.
 ### **Ventajas y desventajas del bitcoin:**
-**Las principales ventajas serían:** su globalidad, transacciones realizadas en tiempo real, altos estándares de seguridad y riesgos, no sufre fluctuaciones de inflación, le da al usuario la libertad de pagos, así como de enviar y recibir cualquier cantidad de dinero de forma instantánea y con tasas muy bajas en comparación con los productos financieros.
-**Las principales desventajas serían:** la volatilidad, la garantía de aceptación, pues aunque cada vez hay más establecimientos que los aceptan todavía son una minoría y el hecho de que no cuenta con respaldo de activos físicos o emisores legales.
+- **Las principales ventajas serían:** su globalidad, transacciones realizadas en tiempo real, altos estándares de seguridad y riesgos, no sufre fluctuaciones de inflación, le da al usuario la libertad de pagos, así como de enviar y recibir cualquier cantidad de dinero de forma instantánea y con tasas muy bajas en comparación con los productos financieros.
+- **Las principales desventajas serían:** la volatilidad, la garantía de aceptación, pues aunque cada vez hay más establecimientos que los aceptan todavía son una minoría y el hecho de que no cuenta con respaldo de activos físicos o emisores legales.
 ### Los NFTS són un timo ❌
 - Los nfts no son fungibles esto significa que no valen lo mismo, hay otros elementos que son fungibles como por ejemplo los bitcoins.
 - Non Fungible Token = NFTS.
