@@ -15,7 +15,7 @@ La historia trata de un granjero que un dia soleado se le ocurre experimentar di
 
 Cada uno de ellos tiene dos habilidades especiales menos el cerdo que tiene una, durante las distintas historias los animales irán usando sus habilidades para hacer el bien o el mal.
 
-Cada animal tiene su propia historia con el granjero, dependiendo de quien la lea, le puede gustar más o una que la otra.
+Cada animal tiene su propia historia con el granjero, dependiendo de quien lo lea, le puede gustar más o una que la otra.
 
 No dire mas pistas, ponte ya a descubrir lo que hay dentro.
 
