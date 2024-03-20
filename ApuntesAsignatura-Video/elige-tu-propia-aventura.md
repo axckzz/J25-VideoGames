@@ -13,7 +13,7 @@ att: es el boceto que hize al principio no es como ha acabado siendo la historia
 
 La historia trata de un granjero que un dia soleado se le ocurre experimentar diferentes aventuras con sus animales de la granja. Elige a sus tres animales favoritos el caballo, la vaca y el cerdo.
 
-Cada uno de ellos tiene dos habilidades especiales menos el cerdo que tiene una, durante las distintas historias los animales iran usando sus habilidades para hacer el bien o el mal.
+Cada uno de ellos tiene dos habilidades especiales menos el cerdo que tiene una, durante las distintas historias los animales irán usando sus habilidades para hacer el bien o el mal.
 
 Cada animal tiene su propia historia con el granjero, dependiendo de quien la lea, le puede gustar más o una que la otra.
 
