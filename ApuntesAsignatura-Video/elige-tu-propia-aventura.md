@@ -23,7 +23,7 @@ No dire mas pistas, ponte ya a descubrir lo que hay dentro.
 1. Fuente de las imagenes usadas.
 2. Respectivas licencias.
 
-- https://cdn2.picryl.com/photo/2023/01/11/morgan-m81-f038v-manticora-5ee0f0-1024.jpg
+- https://www.deviantart.com/roadstell/art/Granja-Escenario-551923236
 - https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7d8fe2e6-5b6c-44e6-a89f-42e291ee381b/d94lmp0-675482af-195b-4018-92de-ad78d1ec3776.png/v1/fill/w_1024,h_745/granja__escenario__by_roadstell_d94lmp0-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzQ1IiwicGF0aCI6IlwvZlwvN2Q4ZmUyZTYtNWI2Yy00NGU2LWE4OWYtNDJlMjkxZWUzODFiXC9kOTRsbXAwLTY3NTQ4MmFmLTE5NWItNDAxOC05MmRlLWFkNzhkMWVjMzc3Ni5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.EbeVIuiOBIBDfrTzq2O09TP42Ts9-G3YxkEDlfRD9_U
 
 - ![Captura de pantalla 2024-03-20 192325](https://github.com/axckzz/J25-VideoGames/assets/144990882/bde2d638-ae66-4845-ad01-0eb5cce34641)
