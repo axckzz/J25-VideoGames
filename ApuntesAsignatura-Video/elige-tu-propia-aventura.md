@@ -29,3 +29,8 @@ No dire mas pistas, ponte ya a descubrir lo que hay dentro.
 - ![0](https://github.com/axckzz/J25-VideoGames/assets/144990882/404b0e7f-c712-49eb-976c-033858c7a15c)
 - ![Captura de pantalla 2024-03-20 183708](https://github.com/axckzz/J25-VideoGames/assets/144990882/04b58ae4-2f0d-4276-a381-0ae8de4586e2)
 
+
+## 🗻 **Link para acceder a la historia**
+Estará en dos formatos en .html y .twe
+- 
+
