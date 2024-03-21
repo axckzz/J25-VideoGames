@@ -23,6 +23,10 @@ Y luego funciona a la perfección y se ve todo bien.
 
 ![Captura de pantalla 2024-03-21 113120](https://github.com/axckzz/J25-VideoGames/assets/144990882/6b39bd1a-8cd9-4f1d-8e97-a3db2c82e51c)
 
+Este es el código que tienes que poner en el twine para que se puedaa ver la imagen.
+
+![Captura de pantalla 2024-03-21 115007](https://github.com/axckzz/J25-VideoGames/assets/144990882/b9f4d597-380a-44df-927e-9218b34b9848)
+
 
 
 
