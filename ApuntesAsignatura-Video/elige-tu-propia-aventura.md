@@ -49,5 +49,5 @@ No dire mas pistas, ponte ya a descubrir lo que hay dentro.
 
 Estará en dos formatos en .html y .twe
 
-- [.html](https://github.com/axckzz/J25-VideoGames/blob/main/ApuntesAsignatura-Video/Videojuego%20.html)
+- [.html](https://github.com/axckzz/J25-VideoGames/blob/main/ApuntesAsignatura-Video/Videojuego.html)
 
