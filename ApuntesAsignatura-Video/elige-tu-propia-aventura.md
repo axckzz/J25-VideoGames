@@ -1,7 +1,7 @@
 # 📰 **Documentación del proyecto "Elige tu propia aventura"**
 
 ## 📓 **Boceto de la historia** 
-att: es el boceto que hize al principio no es como ha acabado siendo la historia.
+**att: es el boceto que hize al principio no es como ha acabado siendo la historia.**
 
 ![unnamed](https://github.com/axckzz/J25-VideoGames/assets/144990882/c597e996-5442-4bca-9c49-7a34a1494198)
 
