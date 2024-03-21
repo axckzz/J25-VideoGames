@@ -11,21 +11,31 @@ att: es el boceto que hize al principio no es como ha acabado siendo la historia
 
 Al principio de la historia no iba a ser así, como se puede ver en el boceto.
 
-He tenido bastantes errores durante le proceso como por ejemplo no saber como implementar la imagen.
+1. He tenido bastantes errores durante le proceso como por ejemplo no saber como implementar la imagen.
 
 ![Captura de pantalla 2024-03-21 33333](https://github.com/axckzz/J25-VideoGames/assets/144990882/7e4b2433-d923-4a6f-bb9f-7139ac4b4f65)
 
-La solución era de en vez de copiar el URL de la página de la imagen es copia la dirrección de la imagen.
+---
+
+2. La solución era de en vez de copiar el URL de la página de la imagen es copia la dirrección de la imagen.
 
 ![Captura de pantalla 2024-03-21 105026](https://github.com/axckzz/J25-VideoGames/assets/144990882/007e44e1-54da-4495-a80d-923b29927822)
 
-Y luego funciona a la perfección y se ve todo bien.
+---
+
+3. Y luego funciona a la perfección y se ve todo bien.
 
 ![Captura de pantalla 2024-03-21 113120](https://github.com/axckzz/J25-VideoGames/assets/144990882/6b39bd1a-8cd9-4f1d-8e97-a3db2c82e51c)
 
-Este es el código que tienes que poner en el twine para que se puedaa ver la imagen.
+---
+
+4. Este es el código que tienes que poner en el twine para que se puedaa ver la imagen.
 
 ![Captura de pantalla 2024-03-21 115007](https://github.com/axckzz/J25-VideoGames/assets/144990882/b9f4d597-380a-44df-927e-9218b34b9848)
+
+---
+
+
 
 
 
