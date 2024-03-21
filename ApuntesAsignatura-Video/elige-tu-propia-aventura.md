@@ -71,8 +71,8 @@ No dire mas pistas, ponte ya a descubrir lo que hay dentro.
 
 ## 🗻 **Link para acceder a la historia**
 
-Estará en dos formatos en .html y .twe
+Estará en dos formatos en .html y .twee
 
 - [.html](https://github.com/axckzz/J25-VideoGames/blob/main/ApuntesAsignatura-Video/Videojuego.html)
-- [.twe](https://github.com/axckzz/J25-VideoGames/blob/main/ApuntesAsignatura-Video/Videojuego.twe)
+- [.twee](https://github.com/axckzz/J25-VideoGames/blob/main/ApuntesAsignatura-Video/Videojuego.twee)
 
