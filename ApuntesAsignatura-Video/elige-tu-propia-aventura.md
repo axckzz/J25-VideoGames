@@ -19,6 +19,11 @@ La solución era de en vez de copiar el URL de la página de la imagen es copia 
 
 ![Captura de pantalla 2024-03-21 105026](https://github.com/axckzz/J25-VideoGames/assets/144990882/007e44e1-54da-4495-a80d-923b29927822)
 
+Y luego funciona a la perfección y se ve todo bien.
+
+![Captura de pantalla 2024-03-21 113120](https://github.com/axckzz/J25-VideoGames/assets/144990882/6b39bd1a-8cd9-4f1d-8e97-a3db2c82e51c)
+
+
 
 
 
