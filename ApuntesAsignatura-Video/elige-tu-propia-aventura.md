@@ -35,14 +35,6 @@ Al principio de la historia no iba a ser así, como se puede ver en el boceto.
 
 ---
 
-
-
-
-
-
-
----
-
 ## 🌐 **El concepto**
 ### **Sinopsis de la historia**
 
@@ -82,4 +74,5 @@ No dire mas pistas, ponte ya a descubrir lo que hay dentro.
 Estará en dos formatos en .html y .twe
 
 - [.html](https://github.com/axckzz/J25-VideoGames/blob/main/ApuntesAsignatura-Video/Videojuego.html)
+- [.twe](https://github.com/axckzz/J25-VideoGames/blob/main/ApuntesAsignatura-Video/Videojuego.twe)
 
