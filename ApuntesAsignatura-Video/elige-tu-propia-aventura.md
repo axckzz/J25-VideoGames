@@ -28,12 +28,9 @@ No dire mas pistas, ponte ya a descubrir lo que hay dentro.
 1. Fuente de las imagenes usadas.
 2. Respectivas licencias.
 
-- https://www.deviantart.com/roadstell/art/Granja-Escenario-551923236
-- https://cdn2.picryl.com/photo/2023/01/11/morgan-m81-f038v-manticora-5ee0f0-1024.jpg
+-  https://www.deviantart.com/roadstell/art/Granja-Escenario-551923236 -> ![Captura de pantalla 2024-03-20 192325](https://github.com/axckzz/J25-VideoGames/assets/144990882/bde2d638-ae66-4845-ad01-0eb5cce34641)
 
-- ![Captura de pantalla 2024-03-20 192325](https://github.com/axckzz/J25-VideoGames/assets/144990882/bde2d638-ae66-4845-ad01-0eb5cce34641)
-
-- ![Captura de pantalla 2024-03-20 183708](https://github.com/axckzz/J25-VideoGames/assets/144990882/04b58ae4-2f0d-4276-a381-0ae8de4586e2)
+- https://cdn2.picryl.com/photo/2023/01/11/morgan-m81-f038v-manticora-5ee0f0-1024.jpg -> ![Captura de pantalla 2024-03-20 183708](https://github.com/axckzz/J25-VideoGames/assets/144990882/04b58ae4-2f0d-4276-a381-0ae8de4586e2)
 
 ---
 
