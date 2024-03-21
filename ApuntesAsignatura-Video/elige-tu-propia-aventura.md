@@ -37,6 +37,7 @@ No dire mas pistas, ponte ya a descubrir lo que hay dentro.
 
 ### **Image 2**
 - https://cdn2.picryl.com/photo/2023/01/11/morgan-m81-f038v-manticora-5ee0f0-1024.jpg ->
+  
 -  ![Captura de pantalla 2024-03-20 183708](https://github.com/axckzz/J25-VideoGames/assets/144990882/04b58ae4-2f0d-4276-a381-0ae8de4586e2)
 -  ![morgan-m81-f038v-manticora-5ee0f0-1024](https://github.com/axckzz/J25-VideoGames/assets/144990882/1faf2d89-0c28-4e63-ab43-0c5405a6d40c)
 
