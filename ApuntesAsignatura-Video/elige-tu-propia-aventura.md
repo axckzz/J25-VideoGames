@@ -28,11 +28,14 @@ No dire mas pistas, ponte ya a descubrir lo que hay dentro.
 1. Fuente de las imagenes usadas.
 2. Respectivas licencias.
 
+### **Image 1**
 -  https://www.deviantart.com/roadstell/art/Granja-Escenario-551923236 ->
 -  ![Captura de pantalla 2024-03-20 192325](https://github.com/axckzz/J25-VideoGames/assets/144990882/bde2d638-ae66-4845-ad01-0eb5cce34641)
 -  ![granja__escenario__by_roadstell_d94lmp0-fullview](https://github.com/axckzz/J25-VideoGames/assets/144990882/b283f70a-0330-464d-9994-b7dbbd4bbbf3)
+  
+---
 
-
+### **Image 2**
 - https://cdn2.picryl.com/photo/2023/01/11/morgan-m81-f038v-manticora-5ee0f0-1024.jpg ->
 -  ![Captura de pantalla 2024-03-20 183708](https://github.com/axckzz/J25-VideoGames/assets/144990882/04b58ae4-2f0d-4276-a381-0ae8de4586e2)
 -  ![morgan-m81-f038v-manticora-5ee0f0-1024](https://github.com/axckzz/J25-VideoGames/assets/144990882/1faf2d89-0c28-4e63-ab43-0c5405a6d40c)
