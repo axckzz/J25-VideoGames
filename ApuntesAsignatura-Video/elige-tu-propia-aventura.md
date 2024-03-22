@@ -29,7 +29,7 @@ Al principio de la historia no iba a ser así, como se puede ver en el boceto.
 
 ---
 
-4. Este es el código que tienes que poner en el twine para que se puedaa ver la imagen.
+4. Este es el código que tienes que poner en el twine para que se pueda ver la imagen.
 
 ![Captura de pantalla 2024-03-21 115007](https://github.com/axckzz/J25-VideoGames/assets/144990882/b9f4d597-380a-44df-927e-9218b34b9848)
 
