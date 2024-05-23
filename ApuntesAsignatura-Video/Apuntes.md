@@ -55,6 +55,23 @@ Usuario 1 y Usuario 2 -> Minero es un intermediario -> que intenta resolver un p
   
 ![giphy](https://github.com/axckzz/J25-VideoGames/assets/144990882/3d0b5cc7-3a42-49ff-9bf6-e083aca41f1c)
 
+## Datos curiosos sobre el mundo de las criptomonedas y NFT!
+
+Datos Curiosos sobre Criptomonedas y NFTs 🚀
+
+Bitcoin y Pizza 🍕: En 2010, Laszlo Hanyecz hizo la primera compra registrada con Bitcoin al pagar 10,000 BTC por dos pizzas. Hoy, esos Bitcoins valdrían millones de dólares. 
+
+- [Referencia](https://www.forbesargentina.com/negocios/que-bitcoin-pizza-day-2024-llega-festejos-us-70000-n53233)
+
+El Primer Tweet como NFT 🐦: Jack Dorsey, cofundador de Twitter, vendió su primer tweet como NFT por más de 2.9 millones de dólares en marzo de 2021
+- [Referencia](https://www.forbesargentina.com/millonarios/jack-dorsey-vendio-su-primer-tweet-us-29-millones-n5377)
+
+CryptoKitties y la Red Ethereum 🐱: CryptoKitties, un juego basado en blockchain donde los jugadores pueden comprar, vender y criar gatos digitales, fue tan popular en 2017 que causó congestión en la red Ethereum.
+
+- [Referencia](https://www.kraken.com/es-es/learn/what-are-cryptokitties-nft)
+
+
+
 ## **Referencias**
 - http://scielo.iics.una.py/scielo.php?script=sci_arttext&pid=S2076-054X2019004900130
 - https://ciencialatina.org/index.php/cienciala/article/view/1306
