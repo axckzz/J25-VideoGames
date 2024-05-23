@@ -34,6 +34,12 @@ Usuario 1 y Usuario 2 -> Minero es un intermediario -> que intenta resolver un p
 
 ---
 
+## Blockchain
+
+Es un sistema de verificación donde las transacciones son públicas y las cuentas son privadas. Para llevar a cabo una transferencia, ambos usuarios deben contactar a un intermediario (minero) que facilite la transacción. En realidad, los intermediarios solicitan a otros dos que realicen el mismo trabajo y el que lo complete más rápidamente recibe una pequeña comisión.
+
+---
+
 ## **WorldCoin**🪐
 ### Problemas de WorldCoin‼️
 - La agencia de protección de datos ha prohibido que en España se puede instalar worldcoin. Porque con esos iris podrian estar vendiendolos a otros países o haciendo cosas incluso peores de las que nos imaginamos.
@@ -55,6 +61,8 @@ Usuario 1 y Usuario 2 -> Minero es un intermediario -> que intenta resolver un p
   
 ![giphy](https://github.com/axckzz/J25-VideoGames/assets/144990882/3d0b5cc7-3a42-49ff-9bf6-e083aca41f1c)
 
+---
+
 ## Datos curiosos sobre el mundo de las criptomonedas y NFT!
 
 Datos Curiosos sobre Criptomonedas y NFTs 🚀
@@ -69,6 +77,9 @@ El Primer Tweet como NFT 🐦: Jack Dorsey, cofundador de Twitter, vendió su pr
 CryptoKitties y la Red Ethereum 🐱: CryptoKitties, un juego basado en blockchain donde los jugadores pueden comprar, vender y criar gatos digitales, fue tan popular en 2017 que causó congestión en la red Ethereum.
 
 - [Referencia](https://www.kraken.com/es-es/learn/what-are-cryptokitties-nft)
+
+
+---
 
 
 
